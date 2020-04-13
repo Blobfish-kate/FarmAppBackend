@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FarmApp", "FarmApp.njsproj", "{78237365-7062-4814-8B94-DFEAD59E5650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78237365-7062-4814-8B94-DFEAD59E5650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78237365-7062-4814-8B94-DFEAD59E5650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78237365-7062-4814-8B94-DFEAD59E5650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78237365-7062-4814-8B94-DFEAD59E5650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4274C35A-AA24-43FE-9040-305F13F3DA91}
+	EndGlobalSection
+EndGlobal
